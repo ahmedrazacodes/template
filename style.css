@@ -1,0 +1,65 @@
+body {
+    background-color: rgba(17, 28, 77, 0.877);
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    div.mainimg {
+        width: 200px;
+        margin-top: 20px;
+        margin-left: 250px;
+
+    }
+
+    div { 
+        display: inline-block;
+    }
+
+    .search{
+        width: 30px;
+        margin-;
+    }
+
+    span {
+        font-weight:bolder;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 72px;
+        color: orange;
+    }
+    .text2 {
+        color: white;
+    }
+
+    p.para {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;}
+        input {
+            display: block;
+            border-radius: 7px;
+            width: 250px;
+            height: 18px;
+            margin-bottom: 10px;
+        }
+
+        button {
+                background-color: orange;
+                border-radius: 7px;
+                border: none;
+                width: 70px;}
+            div>img {
+                width: 430px;
+            }
+
+            .logo {
+                margin-top: 500px;
+            }
+
+            .box1 {
+                margin-left: 400px;
+                margin-top: -10px;
+            }
+
+                
